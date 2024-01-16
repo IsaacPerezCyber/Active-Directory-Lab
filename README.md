@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-This project will utlize oracle virutal machines in conjunction with Microsoft server 2019. I will configure a domain controller and install Remote Access Server for DHCP client. 
+This project will utlize oracle virutal machines in conjunction with Microsoft server 2019. I will configure a domain controller and install Remote Access Server for DHCP client. I will also create and run a Powershell script that will create 1000 users in active directory. User names and passwords will also be created.
 <br />
 
 
